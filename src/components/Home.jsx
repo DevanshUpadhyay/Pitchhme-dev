@@ -15,6 +15,7 @@ const Home = () => {
   return (
     <>
       <div className="w-full bg-[#FBFBFC]">
+        {/*  */}
         <HeroSection />
 
         <ProblemSection />
